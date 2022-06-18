@@ -19,6 +19,6 @@
     "yarn": "1.x"
   },
   "resolutions": {
-    "@webpack-cli/serve": "1.5.2"
+    "@webpack-cli/serve": "1.7.0"
   }
 }
